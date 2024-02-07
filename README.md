@@ -81,3 +81,13 @@ http://demo.cv.ua/veolia/content.html - приклад, внизу при клі
         </div>
 </div>
 ```
+# Скрипти
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css">
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+<script type='text/javascript' src='./js/slick-lightbox.js'></script>
+<script src="./js/fslightbox.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+<script type='text/javascript' src='./js/main.js'></script>
+```
