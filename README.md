@@ -1,4 +1,11 @@
-
+http://demo.cv.ua/veolia/   
+http://demo.cv.ua/veolia/contacts.html   
+http://demo.cv.ua/veolia/content.html   
+http://demo.cv.ua/veolia/content-v2.html   
+http://demo.cv.ua/veolia/tender.html   
+http://demo.cv.ua/veolia/news-lists.html   
+http://demo.cv.ua/veolia/news-record.html   
+http://demo.cv.ua/veolia/gallery.html   
 # Структура сторінок
 ```
 <div class="content">
