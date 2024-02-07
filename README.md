@@ -52,7 +52,9 @@
         </div>
     </div>
 ```
-# Акордіон ``` div.open_close_block ``` - один окремий елемент, ``` <div class="default-block addition-info-block"> ``` - обгортка
+# Акордіон 
+http://demo.cv.ua/veolia/content.html - приклад, внизу при кліку розкриваються блоки
+``` div.open_close_block ``` - один окремий елемент, ``` <div class="default-block addition-info-block"> ``` - обгортка
 ```
  <div class="default-block addition-info-block">
         <div class="open_close_block">
