@@ -69,7 +69,8 @@ http://demo.cv.ua/veolia/content.html - приклад, внизу при клі
         </div>
     </div>
 ```
-# Структура текстової сторінки
+# Структура текстової сторінки   
+http://localhost:3000/content.html   
 ```
 <div class="content">
         <section class="breadcrumb"></section>
